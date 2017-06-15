@@ -1,5 +1,5 @@
-# RIP
-Rest Interface 4 Python
+# RYP
+RestY Interface 4 Python ![RYP](https://s-media-cache-ak0.pinimg.com/originals/e2/92/cf/e292cf96f3c81989f716951e5960137d.jpg)
 
 ## Features
 * Deploy your dependencies to AWS API Gateway to have a RESTful API to your
